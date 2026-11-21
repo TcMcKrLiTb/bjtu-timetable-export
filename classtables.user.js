@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         课表导出 (ICS / CSV / JSON)
-// @namespace    https://github.com/local/classtables
+// @name         北交大课表导出 (ICS / CSV / JSON)
+// @namespace    https://github.com/bjtu-timetable-export
 // @version      1.0.0
-// @description  从"一体化智慧教学平台"课表详情页导出整学期课程表为 ICS 日历 / CSV / JSON
-// @author       local
+// @description  从北交大一体化智慧教学平台的"我的课表"页面导出整学期课程表为 ICS 日历 / CSV / JSON
+// @author       zhangshixiao
 // @match        http://123.121.147.7:88/ve/back/rp/common/myTimeTableDetail.shtml*
 // @grant        none
 // @run-at       document-idle
